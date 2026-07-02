@@ -1,0 +1,13 @@
+# Backend
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+
+# Frontend
+WeCareAI-main/node_modules/
+WeCareAI-main/.env
+
+# OS
+.DS_Store
+Thumbs.db
